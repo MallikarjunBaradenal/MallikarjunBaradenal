@@ -1,5 +1,11 @@
 # 💫 About Me:
-📡 I’m currently working on: AI/ML and backend development projects<br>🕺 I’m looking to collaborate on: AI/ML, Data Science & open-source projects<br>🤝 I’m looking for help with: Advanced Machine Learning, System Design & DevOps<br>🌱 I’m currently learning: Data Science, Deep Learning & Cloud Computing<br>💬 Ask me about: Python, DSA, Backend Development, AI/ML & DBMS<br>⚡ Fun fact: I’ve solved 200+ LeetCode problems and enjoy building practical AI projects.
+👋 Hi, I'm Mallikarjun — a Computer Science undergraduate passionate about **AI/ML, Data Science, Backend Development, and problem solving**.<br>
+🚀 I’m currently working on: AI/ML and backend projects using Python, Flask, MySQL, MongoDB, and Docker.<br>
+🤝 I’m looking to collaborate on: AI/ML, Data Science, open-source, and impactful software projects.<br>
+🌱 I’m currently learning: Machine Learning, Deep Learning, Data Science, Cloud Computing, and DevOps.<br>
+💬 Ask me about: Python, DSA, Backend Development, DBMS, AI/ML, and problem solving.<br>
+🧠 Problem Solving: Solved **150+ LeetCode problems**, strengthening my DSA and algorithmic thinking.<br>
+⚡ Fun fact: I enjoy turning ideas into practical projects and continuously improving my coding skills.
 
 
 ## 🌐 Socials:
