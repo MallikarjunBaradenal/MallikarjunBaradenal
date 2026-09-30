@@ -4,7 +4,7 @@
 🤝 I’m looking to collaborate on: AI/ML, Data Science, open-source, and impactful software projects.<br>
 🌱 I’m currently learning: Machine Learning, Deep Learning, Data Science, Cloud Computing, and DevOps.<br>
 💬 Ask me about: Python, DSA, Backend Development, DBMS, AI/ML, and problem solving.<br>
-🧠 Problem Solving: Solved **150+ LeetCode problems**, strengthening my DSA and algorithmic thinking.<br>
+🧠 Problem Solving: Solved **200+ LeetCode problems**, strengthening my DSA and algorithmic thinking.<br>
 ⚡ Fun fact: I enjoy turning ideas into practical projects and continuously improving my coding skills.
 
 
