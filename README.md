@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mallikarjun — a Computer Science undergraduate passionate about **AI/ML, Data Science, Backend Development, and problem solving**.<br>
+👋 Hi, I'm Mallikarjun — a Computer Science undergraduate passionate about **Software Engineering, Data Science and Backend Development**.<br>
 🚀 I’m currently working on: AI/ML and backend projects using Python, Flask, MySQL, MongoDB, and Docker.<br>
 🤝 I’m looking to collaborate on: AI/ML, Data Science, open-source, and impactful software projects.<br>
 🌱 I’m currently learning: Machine Learning, Deep Learning, Data Science, Cloud Computing, and DevOps.<br>
